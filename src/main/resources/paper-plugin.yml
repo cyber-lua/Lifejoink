@@ -1,0 +1,5 @@
+name: Lifejoink
+main: org.cyber.ct.lifejoink.Lifejoink
+version: '1.0'
+api-version: '1.21.1'
+authors: [ "cyber.lua" ]
